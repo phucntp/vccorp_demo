@@ -32,7 +32,7 @@ function App() {
         />
       </div>
       <div className="text-center text-left absolute sm:right-[0px] lg:right-[100px] px-0 lg:px-[56px] sm:px-[58px] flex flex-col h-full w-full sm:w-[352px] lg:w-[352px]">
-        <div className="absolute text-[16px] sm:text-[20px] lg:text-[28px] text-[#fff] sm:top-[212px] md:top-[282px] lg:top-[342px] bottom-[150px] px-[54px] sm:px-[36px] lg:px-0">
+        <div className="absolute text-[16px] sm:text-[20px] lg:text-[28px] text-[#fff] sm:top-[212px] md:top-[282px] lg:top-[302px] bottom-[150px] px-[54px] sm:px-[36px] lg:px-0">
           Tôi không nghĩ mình đang khác đi, bởi tôi là một người sống khá đơn
           giản. Tôi biết những người yêu mến tôi là vì sự chân thật và giản dị.
         </div>
