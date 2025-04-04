@@ -56,3 +56,4 @@ export default tseslint.config({
 
 Demo ui VCCORP
 Link demo: https://vccorp-demo.vercel.app/
+Link git: https://github.com/phucntp/vccorp_demo
