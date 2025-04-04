@@ -17,7 +17,7 @@ function App() {
           className="w-full h-full object-cover"
         />
       </div>
-      <div className="w-[50px] h-[50px] top-[104px] right-[-6px] sm:hidden absolute">
+      <div className="w-[50px] h-[50px] sm:w-[128px] sm:h-[128px] top-[104px] right-[-6px] lg:top-[84px] lg:right-[-14px] absolute">
         <img
           src="/images/Vector_2.png"
           alt="Vector"
